@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Dynamic Lookahead Distance via Reinforcement Learning-Based Pure Pursuit for Autonomous Racing"
+message: "If you use this repository, please cite the associated paper."
+type: software
+authors:
+  - family-names: Elgouhary
+    given-names: Mohamed
+  - family-names: El-Wakeel
+    given-names: Amr S.
+doi: 10.48550/arXiv.2603.28625
+repository-code: "https://github.com/ICPS-LAB-WVU/Dynamic-Lookahead-Distance-via-Reinforcement-Learning-Based-Pure-Pursuit-for-Autonomous-Racing"
+date-released: "2026-03-30"
